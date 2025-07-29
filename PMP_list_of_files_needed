@@ -1,0 +1,247 @@
+The Project Management Body of Knowledge (PMBOK® Guide) outlines various project management processes, supported by a range of documents, methods, graphs, and terms that are essential for effective project management [PMBOKGuide.pdf 34].
+
+Here is a comprehensive list of project documents, methods, graphs, and terms, drawing on the provided sources:
+
+### I. Project Documents (Artifacts, Plans, Logs, Registers, Baselines, Reports)
+
+In project management, an **artifact** can be a template, document, output, or project deliverable [PMBOKGuide.pdf 35, 75]. These documents are crucial for planning, executing, monitoring, and controlling projects [PMBOKGuide.pdf 37, 243].
+
+**A. Strategy Artifacts** [PMBOKGuide.pdf 47, 67]
+Documents created prior to or at the start of a project that contain strategic, business, or high-level information. They typically do not change but may be reviewed throughout the project [PMBOKGuide.pdf 47].
+*   **Business Case**: A value proposition for a proposed project, which may include financial and nonfinancial benefits [PMBOKGuide.pdf 47, 79]. Used to check if the project met its exit criteria during closure [PMP_Exam_Prep_For_Dummies.pdf 323].
+*   **Business Model Canvas**: A one-page visual summary describing the value proposition, infrastructure, customers, and finances, often used in lean start-up situations [PMBOKGuide.pdf 47, 79].
+*   **Project Brief**: A high-level overview of the project's goals, deliverables, and processes [PMBOKGuide.pdf 48, 93].
+*   **Project Charter**: A document issued by the project initiator or sponsor that formally authorises the project's existence and grants the project manager authority to use organisational resources for project activities [PMBOKGuide.pdf 48, 93, 286, 360, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 396, 397]. It provides initial direction for developing the Project Management Plan [PMP_Exam_Prep_For_Dummies.pdf 217]. Every project, whether predictive or adaptive, is assumed to have a project charter [PMP_Exam_Prep_For_Dummies.pdf 253]. Used to confirm the project met its exit criteria during closure [PMP_Exam_Prep_For_Dummies.pdf 323].
+*   **Project Vision Statement**: A concise, high-level description of the project that states its purpose and inspires the project team [PMBOKGuide.pdf 48, 97].
+*   **Roadmap**: A high-level timeline depicting milestones, significant events, reviews, and decision points [PMBOKGuide.pdf 49, 106]. The product roadmap communicates a long-term view of features supporting the product goal [Agile_Project_Management_For_Dummies_4E_-_Mark_C_Layton.pdf 3].
+
+**B. Logs and Registers** [PMBOKGuide.pdf 49, 67]
+Used to record continuously evolving aspects of the project and are updated throughout [PMBOKGuide.pdf 49, 99].
+*   **Assumption Log**: Records all assumptions and constraints throughout the project [PMBOKGuide.pdf 49, 76, 244].
+*   **Backlog**: An ordered list of work to be done, such as a product backlog, requirements backlog, or impediments backlog, with items prioritised [PMBOKGuide.pdf 50, 76].
+    *   **Product Backlog**: A complete list of all currently known product requirements [Agile_Project_Management_For_Dummies_4E_-_Mark_C_Layton.pdf 2, 3]. It communicates the scope of the product to the team [Agile_Project_Management_For_Dummies_4E_-_Mark_C_Layton.pdf 3]. Requirements in the product backlog have estimated story points, which can be used with team velocity to determine a realistic end date [Agile_Project_Management_For_Dummies_4E_-_Mark_C_Layton.pdf 2].
+    *   **Risk-Adjusted Backlog**: Includes work and actions to address threats and opportunities [PMBOKGuide.pdf 51].
+    *   **Sprint Backlog**: A detailed list of tasks to be taken up in the next sprints, managed collectively by the team, including estimations and work assignments [Ultimate_Agile_Administration_with_Jira_-_Yogita_Chhaya.pdf 387].
+*   **Change Log**: A comprehensive list of changes submitted during the project and their current status [PMBOKGuide.pdf 50, 80, 149, 244]. Assesses the impact of changes during project closure [PMP_Exam_Prep_For_Dummies.pdf 323].
+*   **Issue Log**: Records and monitors information on active issues, which are current conditions or situations that may impact project objectives [PMBOKGuide.pdf 51, 85, 159, 165, 197, 245]. Issues are assigned to a responsible party for follow-up and resolution [PMBOKGuide.pdf 51].
+*   **Lessons Learned Register**: Records knowledge gained during a project, phase, or iteration to improve future performance [PMBOKGuide.pdf 51, 87, 245]. Archived in the lessons learned repository during project closure [PMP_Exam_Prep_For_Dummies.pdf 323].
+*   **Risk Register**: A repository for outputs of risk management processes, summarising information on individual project risks and the overall project risk level [PMBOKGuide.pdf 64, 104, 186, 205, 236, 245, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 411, 417]. Used to review data on risk occurrence and evaluate strategies during project closure [PMP_Exam_Prep_For_Dummies.pdf 323].
+*   **Stakeholder Register**: Includes information about project stakeholders, their assessment, and classification [PMBOKGuide.pdf 110, 192, 245, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 423].
+
+**C. Plans** [PMBOKGuide.pdf 186, 241, 242]
+Detailed guidelines on how various aspects of the project will be managed [PMP_Exam_Prep_For_Dummies.pdf 239].
+*   **Change Control Plan (Change Management Plan)**: Describes how changes to the project and its baselines will be identified, documented, and controlled [PMBOKGuide.pdf 242].
+*   **Communications Management Plan**: Describes how, when, and by whom information about the project will be administered and disseminated based on stakeholder information needs [PMBOKGuide.pdf 52, 186, 190, 242].
+*   **Cost Management Plan**: Describes how costs will be planned, structured, and controlled [PMBOKGuide.pdf 52, 186, 242].
+*   **Iteration Plan**: A detailed plan for the current iteration [PMBOKGuide.pdf 52, 85].
+*   **Procurement Management Plan**: Documents procurement decisions, approach, and identified sellers, describing how a project team will acquire goods and services from outside the performing organisation [PMBOKGuide.pdf 52, 92, 186, 233, 242, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 419, 420, 421].
+*   **Project Management Plan (PMP)**: A comprehensive document integrating all subsidiary plans, serving as the central guide for how the project will be executed, monitored and controlled, and closed [PMBOKGuide.pdf 53, 95, 216, 218, 238, 242, 396]. It includes methodologies, procedures, documentation for managing changes, and baselines [PMP_Exam_Prep_For_Dummies.pdf 219, 238].
+*   **Quality Management Plan**: Identifies quality requirements and standards, documenting how compliance will be demonstrated [PMBOKGuide.pdf 53, 98, 186, 242, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 429].
+*   **Release Plan**: Sets expectations for dates, features, and/or outcomes to be delivered over multiple iterations [PMBOKGuide.pdf 53, 100]. Contains a release schedule for a minimum set of requirements [Agile_Project_Management_For_Dummies_4E_-_Mark_C_Layton.pdf 2].
+*   **Requirements Management Plan**: Describes how requirements will be analysed, documented, and managed [PMBOKGuide.pdf 54, 101, 186, 242, 264].
+*   **Resource Management Plan**: Describes how project resources are acquired, allocated, monitored, and controlled [PMBOKGuide.pdf 54, 102, 186, 213, 242].
+*   **Risk Management Plan**: Describes how risk management activities will be structured and performed, including methodology, budget, roles, risk categories, tracking systems, and assessment [PMBOKGuide.pdf 54, 104, 186, 242, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 416].
+*   **Schedule Management Plan**: Defines policies, procedures, and documentation for planning, developing, managing, executing, and controlling the project schedule [PMBOKGuide.pdf 242, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 426].
+*   **Scope Management Plan**: Outlines processes for planning, defining, validating, and controlling project scope [PMBOKGuide.pdf 108, 157, 186, 242].
+*   **Stakeholder Engagement Plan**: Outlines strategies to ensure stakeholder involvement and engagement throughout the project life cycle [PMBOKGuide.pdf 54, 187, 242, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 423].
+*   **Test Plan**: Describes deliverables to be tested, tests to be conducted, and processes for testing [PMBOKGuide.pdf 114, 187].
+
+**D. Baselines** [PMBOKGuide.pdf 56, 188]
+Approved versions of a work product or plan used for comparison to actual performance to identify variances [PMBOKGuide.pdf 56, 76, 240].
+*   **Budget**: The approved estimate for the project or any Work Breakdown Structure (WBS) component or schedule activity [PMBOKGuide.pdf 56, 78, 188].
+*   **Cost Baseline**: The approved time-phased project budget, excluding management reserves [PMBOKGuide.pdf 240, 408]. Serves as the basis for measuring and controlling project costs [_OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 408].
+*   **Milestone Schedule**: Presents milestones with planned dates [PMBOKGuide.pdf 57, 88].
+*   **Performance Measurement Baseline (PMB)**: Integrated scope, schedule, and cost baselines used for comparison to manage, measure, and control project execution [PMBOKGuide.pdf 57, 90, 241].
+*   **Project Schedule**: An output of a schedule model that presents linked activities with planned dates, durations, milestones, and resources [PMBOKGuide.pdf 57, 96, 188, 245, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 404].
+*   **Schedule Baseline**: The approved version of a schedule model that can be changed using formal change control procedures and used as the basis for comparison to actual results [PMBOKGuide.pdf 107, 240].
+*   **Scope Baseline**: The approved version of a scope statement, WBS, and its associated WBS dictionary, changeable through formal change control, used as the basis for comparison to actual results [PMBOKGuide.pdf 57, 160, 226, 240].
+
+**E. Reports** [PMBOKGuide.pdf 190]
+Formal records or summaries of information [PMBOKGuide.pdf 100].
+*   **Quality Report**: Includes quality management issues, recommendations for corrective actions, and a summary of findings from quality control activities [PMBOKGuide.pdf 98, 245].
+*   **Risk Report**: Summarises information on individual project risks and the level of overall project risk [PMBOKGuide.pdf 64, 105, 245]. Used to review data on risk occurrence and evaluate strategies during project closure [PMP_Exam_Prep_For_Dummies.pdf 323].
+*   **Status Report**: Provides a report on the current status of the project, including progress and forecasts [PMBOKGuide.pdf 64, 111, 245].
+
+**F. Hierarchy Charts** [PMBOKGuide.pdf 187]
+*   **Organizational Breakdown Structure (OBS)**: A hierarchical representation of the project organisation, illustrating relationships between project activities and organisational units [PMBOKGuide.pdf 55, 89].
+*   **Product Breakdown Structure**: A hierarchical structure reflecting a product’s components and deliverables [PMBOKGuide.pdf 55, 92].
+*   **Resource Breakdown Structure**: A hierarchical representation of resources by category and type [PMBOKGuide.pdf 55, 102, 245].
+*   **Risk Breakdown Structure (RBS)**: A hierarchical representation of potential sources of risks [PMBOKGuide.pdf 55, 231, 245]. Organises risks into detailed levels for systematic identification and addressal [PMP_Exam_Prep_For_Dummies.pdf 231].
+*   **Work Breakdown Structure (WBS)**: A hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish objectives and create deliverables [PMBOKGuide.pdf 56, 116, 136, 139, 172, 188, 224, 255, 365, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 399]. It drives the creation of an activity list and serves as a foundation for schedule development [PMP_Exam_Prep_For_Dummies.pdf 227].
+    *   **WBS Dictionary**: A companion document to the WBS that provides detailed deliverable, activity, and scheduling information about each WBS component [PMBOKGuide.pdf 116, 164, 226, 366].
+
+**G. Agreements and Contracts** [PMBOKGuide.pdf 64]
+Documents or communications defining parties' intentions, such as contracts [PMBOKGuide.pdf 64].
+*   **Fixed-Price Contracts**: Obligate the seller to provide specified results for a fixed price [PMBOKGuide.pdf 64].
+*   **Cost-Reimbursable Contracts**: Involve reimbursement of allowable costs plus a fee [PMBOKGuide.pdf 64].
+*   **Time and Materials (T&M) Contracts**: Hybrid arrangements with aspects of both cost-reimbursable and fixed-price contracts [PMBOKGuide.pdf 115].
+*   **Indefinite Time Indefinite Quantity (IDIQ) Contracts**: Provide for an indefinite quantity of goods or services within a fixed time [PMBOKGuide.pdf 71, 84].
+
+**H. Other Artifacts** [PMBOKGuide.pdf 65]
+*   **Activity List**: A comprehensive tabulation of schedule activities with descriptions, identifiers, and detailed scope of work [PMBOKGuide.pdf 65, 227, 244, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 401, 431].
+*   **Activity Attributes**: Detailed information about each activity, such as predecessors, successors, logical relationships, leads, and lags [PMP_Exam_Prep_For_Dummies.pdf 244, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 402, 405].
+*   **Bid Documents**: Used to request proposals from prospective sellers. Include Request for Information (RFI), Request for Quotation (RFQ), and Request for Proposal (RFP) [PMBOKGuide.pdf 65, 78, 192, 234, 235].
+*   **Metrics**: Describe an attribute and how to measure it [PMBOKGuide.pdf 66, 88, 121, 192, 245].
+*   **Milestone List**: Identifies significant points or events in the project [PMP_Exam_Prep_For_Dummies.pdf 245, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 403, 406].
+*   **Project Calendar**: Identifies working days and shifts available for scheduled activities [PMBOKGuide.pdf 66, 93, 150, 192, 245].
+*   **Project Team Charter**: Records project team values, agreements, and operating guidelines, establishing clear expectations for behaviour [PMBOKGuide.pdf 66, 245].
+*   **Requirements Documentation**: A record of product requirements and relevant information for managing them, including category, priority, and acceptance criteria [PMBOKGuide.pdf 66, 101, 192, 245, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 398, 400].
+*   **User Story**: Describes how a user interacts with a system to achieve a specific goal [PMBOKGuide.pdf 71]. Used in adaptive projects to describe features [PMP_Exam_Prep_For_Dummies.pdf 248].
+
+### II. Methods (Tools and Techniques)
+
+A **method** is the means for achieving an outcome, output, result, or project deliverable [PMBOKGuide.pdf 34].
+*   **Acquiring Resources**: Methods for obtaining team members and physical resources [PMBOKGuide.pdf 215].
+*   **Affinity Grouping**: Classifying items into similar categories based on likeness [PMBOKGuide.pdf 74]. Used to sort ideas for review and analysis [PMP Exam Prep Questions, Answers, & Explanations 1000 PMP Practice Questions with Detailed Solutions - PDF Room.pdf 177].
+*   **Alternatives Analysis**: Evaluating identified options to select approaches to perform project work [PMBOKGuide.pdf 39, 74].
+*   **Analogous Estimating**: Estimating duration or cost using historical data from a similar activity or project [PMBOKGuide.pdf 75, 191]. It is a quick and less accurate estimating technique [PMP_Exam_Prep_For_Dummies.pdf 229].
+*   **Assumption and Constraint Analysis**: Ensures assumptions and constraints are integrated into project plans and documents and are consistent [PMBOKGuide.pdf 39, 75].
+*   **Benchmarking**: Comparing actual or planned products, processes, and practices to those of comparable organisations to identify best practices and generate improvement ideas [PMBOKGuide.pdf 77, 175, 222].
+*   **Brainstorming**: Generating ideas in a group [PMP Exam Prep Questions, Answers, & Explanations 1000 PMP Practice Questions with Detailed Solutions - PDF Room.pdf 180]. Used for projects involving untested methods [Project.Management.For.Dummies®.2nd.Edition.Wiley.2007.pdf 304].
+*   **Cost-Benefit Analysis**: Financial tool to determine project benefits against its costs [PMBOKGuide.pdf 40].
+*   **Decomposition**: Dividing project scope and deliverables into smaller, more manageable parts [PMBOKGuide.pdf 82, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 402, 430].
+*   **Decision Tree Analysis**: Diagramming and calculation method for evaluating implications of multiple options in uncertainty, often used with Expected Monetary Value (EMV) [PMBOKGuide.pdf 82, 232].
+*   **Document Analysis**: Reviewing and assessing documentation from previously completed projects to gather requirements [PMP_Exam_Prep_For_Dummies.pdf 221].
+*   **Earned Value Analysis**: A method used to measure project performance and progress [PMP Exam Prep Questions, Answers, & Explanations 1000 PMP Practice Questions with Detailed Solutions - PDF Room.pdf 168, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 408].
+*   **Expert Judgment**: Used to leverage the experience and knowledge of experts to define project activities [_OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 434] and identify risks [_OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 417].
+*   **Forecasting**: Uses mathematical models to predict future outcomes based on historical results [PMBOKGuide.pdf 42].
+*   **Group Creativity Techniques**: Methods used to generate ideas, such as brainstorming [PMP_Exam_Prep_For_Dummies.pdf 180].
+*   **Group Decision-Making Techniques**: Methods used to reach a decision when various alternatives are available and group consensus is needed, e.g., unanimity, majority, plurality, or dictatorship [PMP_Exam_Prep_For_Dummies.pdf 180, 221].
+*   **Impact Mapping**: A strategic planning method that serves as a visual roadmap for the organisation during product development [PMBOKGuide.pdf 84].
+*   **Influence Diagrams**: Graphical tools showing relationships between variables and risks, useful when decision trees are too complex [PMBOKGuide.pdf 232].
+*   **Interviews**: Used to gather requirements from stakeholders [PMP_Exam_Prep_For_Dummies.pdf 221].
+*   **Iteration Planning**: Meeting to clarify backlog item details, acceptance criteria, and work effort for an upcoming iteration [PMBOKGuide.pdf 85].
+*   **Life Cycle Assessment (LCA)**: Evaluates the total environmental impact of a product, process, or system [PMBOKGuide.pdf 87].
+*   **Make-or-Buy Analysis**: Helps decide whether to produce goods/services internally or procure them externally [PMBOKGuide.pdf 44].
+*   **Modelling**: Creating simplified representations such as prototypes, diagrams, or storyboards [PMBOKGuide.pdf 88].
+*   **Monte Carlo Simulation**: Involves thousands of scenarios to model how uncertainties in inputs affect project outcomes, estimating probability of completion within budget/time [PMP_Exam_Prep_For_Dummies.pdf 232].
+*   **Multipoint Estimating**: An estimating method using three points (optimistic, pessimistic, most likely) to estimate duration or cost [PMBOKGuide.pdf 45].
+*   **Observations (Job Shadowing)**: Observing people in their environment to see how they perform jobs or tasks, or how a product/system is used, often when requirements are difficult to uncover [PMP_Exam_Prep_For_Dummies.pdf 221].
+*   **Parametric Estimating**: An estimating method using algorithms based on historical data and project parameters [PMBOKGuide.pdf 90].
+*   **Performance Reviews**: Compare project performance against the plan to assess if outputs meet performance requirements [PMP_Exam_Prep_For_Dummies.pdf 251].
+*   **Process Analysis**: Systematic review of steps and procedures to perform an activity [PMBOKGuide.pdf 41].
+*   **Prototyping**: Developing a working model of the expected product or features for early feedback [PMP_Exam_Prep_For_Dummies.pdf 221].
+*   **Qualitative Risk Analysis**: Prioritising individual project risks by assessing their probability and impact [PMP Exam Prep Questions, Answers, & Explanations 1000 PMP Practice Questions with Detailed Solutions - PDF Room.pdf 171, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 411].
+*   **Quantitative Risk Analysis**: Numerically analysing the combined effect of identified individual project risks on overall project objectives [PMP Exam Prep Questions, Answers, & Explanations 1000 PMP Practice Questions with Detailed Solutions - PDF Room.pdf 184, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 412].
+*   **Questionnaires and Surveys**: Distributing questionnaires and surveys to a large group when statistical data is required or interviews/workshops are not feasible [PMP_Exam_Prep_For_Dummies.pdf 221].
+*   **Regression Analysis**: Examines input variables in relation to output results to develop a mathematical or statistical relationship [PMBOKGuide.pdf 41, 99].
+*   **Relative Estimating**: Estimates derived from comparison against similar work, considering effort, complexity, and uncertainty [PMBOKGuide.pdf 99].
+*   **Reserve Analysis**: Evaluates the amount of project risk and schedule/budget reserve to determine sufficiency [PMBOKGuide.pdf 102].
+*   **Retrospective**: A regularly occurring workshop where participants explore their work and results to improve processes and products [PMBOKGuide.pdf 103].
+*   **Risk Audits**: Assess the effectiveness of risk management processes [PMBOKGuide.pdf 105].
+*   **Rolling Wave Planning**: An iterative planning method where near-term work is planned in detail, and future work is planned at a higher level [PMBOKGuide.pdf 106, PMP_Exam_Prep_For_Dummies.pdf 195].
+*   **Root Cause Analysis (RCA)**: Identifies the fundamental reasons for defects or issues to prevent recurrence [PMBOKGuide.pdf 107, 251].
+*   **Schedule Network Analysis**: A catch-all for methods to build the project schedule model, leveraging tools like critical path method, what-if analysis, and resource optimisation to calculate activity dates [PMP_Exam_Prep_For_Dummies.pdf 228].
+*   **Sensitivity Analysis**: Identifies which variables have the greatest impact on project outcomes [PMBOKGuide.pdf 108, 232]. Results are displayed on a tornado diagram [PMP_Exam_Prep_For_Dummies.pdf 232].
+*   **Simulation**: Runs thousands of scenarios to model how uncertainties affect project outcomes [PMBOKGuide.pdf 44].
+*   **Statistical Process Control (SPC)**: Measures and records results of quality management activities to assess performance [Lean_Six_Sigma_for_Beginners_-_Gary_G_Jing.pdf 65].
+*   **Statistical Sampling**: Selecting a representative sample instead of inspecting every item to reduce costs and save time while maintaining confidence in results [PMP_Exam_Prep_For_Dummies.pdf 251].
+*   **Stakeholder Analysis**: Systematically gathering and analysing information about stakeholders to determine whose interests should be considered [PMBOKGuide.pdf 42]. Helps determine stakeholders' interests, influence, and potential impact [_OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 424].
+*   **Story Point Estimation**: An estimating method used in agile for effort based on story points [PMBOKGuide.pdf 45].
+*   **SWOT Analysis**: Assesses strengths, weaknesses, opportunities, and threats [PMBOKGuide.pdf 42, 113].
+*   **Trend Analysis**: Uses mathematical models to forecast future outcomes based on historical results [PMBOKGuide.pdf 42, 115].
+*   **Value Stream Mapping**: A lean enterprise method to document, analyse, and improve the flow of information or materials, and identify waste [PMBOKGuide.pdf 42, 63, 10].
+*   **What-If Scenario Analysis**: Evaluates scenarios to predict their effect on project objectives [PMBOKGuide.pdf 116].
+*   **Wideband Delphi**: An estimating method where subject matter experts individually produce estimates in multiple rounds with team discussion until consensus is achieved [PMBOKGuide.pdf 116].
+
+### III. Graphs (Visual Data and Information)
+
+*   **Affinity Diagram**: Shows large numbers of ideas classified into groups for review and analysis [PMBOKGuide.pdf 74].
+*   **Box Plot**: A type of graph used in data visualization [Lean_Six_Sigma_for_Beginners_-_Gary_G_Jing.pdf 9].
+*   **Burn Charts (Burnup/Burndown)**: Graphical representations of work remaining in a timebox or work completed toward a release [PMBOKGuide.pdf 58, 79, 188, 248, 250].
+    *   **Burndown Chart**: Shows the amount of total work estimated and remaining in a sprint [Ultimate_Agile_Administration_with_Jira_-_Yogita_Chhaya.pdf 388].
+    *   **Burnup Chart**: Tracks the amount of work done compared to expected work [PMBOKGuide.pdf 33].
+*   **Cause-and-Effect Diagram (Fishbone Diagram)**: A visual representation that helps trace an undesirable effect back to its root cause [PMBOKGuide.pdf 58, 197]. Used to determine the root cause behind a problem or major defect [Project Management: Core Principles and Practices.pdf 268].
+*   **Control Chart**: Shows the stability of a process and indicates if a process is in control [Project Management: Core Principles and Practices.pdf 268]. Provides information about lead-time and cycle-time for a project or sprint [Ultimate_Agile_Administration_with_Jira_-_Yogita_Chhaya.pdf 388].
+*   **Cumulative Flow Diagram (CFD)**: Indicates features completed over time, features in development, and those in the backlog [PMBOKGuide.pdf 58, 197].
+*   **Cycle Time Chart**: Shows the average cycle time of completed work items over time, as a scatter diagram or bar chart [PMBOKGuide.pdf 59, 81].
+*   **Dashboards**: A set of charts and graphs showing progress or performance against important project measures [PMBOKGuide.pdf 59, 81, 189, 327, 390]. Convey overall project progress and highlight problems [Project.Management.For.Dummies®.2nd.Edition.Wiley.2007.pdf 327].
+*   **Dot Plot**: A type of graph used in data visualization [Lean_Six_Sigma_for_Beginners_-_Gary_G_Jing.pdf 9].
+*   **Flowchart**: Depicts inputs, process actions, and outputs of processes within a system [PMBOKGuide.pdf 59].
+*   **Gantt Chart**: A bar chart providing schedule information with activities on the vertical axis, dates on the horizontal axis, and durations as horizontal bars [PMBOKGuide.pdf 59, 72, 189, 248, 375, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 438].
+*   **Histogram**: A bar chart showing the graphical representation of numerical data [PMBOKGuide.pdf 60, 189]. Can be used to quantify and categorise defects [Project Management: Core Principles and Practices.pdf 268].
+*   **Information Radiator**: A visible, physical display providing information to the organisation, enabling timely knowledge sharing [PMBOKGuide.pdf 60, 168].
+*   **Lead Time Chart**: Shows the trend over time of the average lead time of completed work items, as a scatter diagram or bar chart [PMBOKGuide.pdf 60, 86].
+*   **Person Loading Graphs/Charts**: Display the skills, knowledge, and interest of people who may work on a project [Project.Management.For.Dummies®.2nd.Edition.Wiley.2007.pdf 312, 314, 369].
+*   **Prioritisation Matrix**: A scatter diagram plotting effort against value, divided into quadrants to classify items by priority [PMBOKGuide.pdf 60, 91].
+*   **Probability and Impact Matrix**: A grid for mapping the probability of occurrence of each risk and its impact on project objectives [PMBOKGuide.pdf 41, 92, 134, 197].
+*   **Project Schedule Network Diagram**: A graphical representation showing logical relationships among project schedule activities [PMBOKGuide.pdf 61, 96, 135, 139, 189, 196, 245, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 401, 428].
+*   **Run Chart**: A graph used in data visualization [Lean_Six_Sigma_for_Beginners_-_Gary_G_Jing.pdf 9].
+*   **Scatter Diagram**: A graph showing the relationship between two variables [PMBOKGuide.pdf 62, 107, 197].
+*   **S-Curve**: Displays cumulative costs over a specified period of time [PMBOKGuide.pdf 62, 108].
+*   **Stakeholder Engagement Assessment Matrix**: Compares current and desired stakeholder engagement levels [PMBOKGuide.pdf 62, 193, 195, 245].
+*   **Story Map**: A visual model of all desired features and functionality for a product, giving a holistic view of what is being built and why [PMBOKGuide.pdf 62, 111, 250].
+*   **Throughput Chart**: Shows accepted deliverables over time, as a scatter diagram or bar chart [PMBOKGuide.pdf 63, 115].
+*   **Velocity Chart**: Tracks the rate at which deliverables are produced, validated, and accepted within a predefined interval [PMBOKGuide.pdf 63, 197].
+
+### IV. Terms
+
+A **project** is a temporary endeavour undertaken to create a unique product, service, or result [PMBOKGuide.pdf 21, 93, 210, 359]. It has a beginning and an end [PMBOKGuide.pdf 210, Project.Management.For.Dummies®.2nd.Edition.Wiley.2007.pdf 279], produces deliverables that result in desired outcomes [PMBOKGuide.pdf 210], and involves a systematic approach [Project Management: Core Principles and Practices.pdf 267].
+
+**A. Foundational Concepts**
+*   **Agile**: A mindset of values and principles set forth in the Agile Manifesto [PMBOKGuide.pdf 74].
+*   **Artifact**: A template, document, output, or project deliverable [PMBOKGuide.pdf 35, 75].
+*   **Authority**: The right to apply project resources, expend funds, make decisions, or give approvals [PMBOKGuide.pdf 76, 348].
+*   **Baseline**: The approved version of a work product, used as a basis for comparison to actual results [PMBOKGuide.pdf 76, 349].
+*   **Cadence**: A rhythm of activities conducted throughout the project [PMBOKGuide.pdf 27].
+*   **Constraint**: A limiting factor that affects project execution [PMBOKGuide.pdf 39, 75, 292, 351].
+*   **Deliverable**: Any unique and verifiable product, result, or capability to perform a service that is required to be produced to complete a process, phase, or project [PMBOKGuide.pdf 27, 82, 438]. Deliverables reflect stakeholder requirements, scope, and quality, and enable project outcomes [PMBOKGuide.pdf 30].
+*   **Development Approach**: A method used to create and evolve the product, service, or result during the project life cycle, such as predictive, iterative, incremental, adaptive, or hybrid [PMBOKGuide.pdf 27, 242, 208].
+*   **Expected Monetary Value (EMV)**: The estimated value of an outcome expressed in monetary terms [PMBOKGuide.pdf 83].
+*   **Explicit Knowledge**: Knowledge that can be codified using symbols like words, numbers, and pictures [PMBOKGuide.pdf 83].
+*   **Feasibility Study**: A formal investigation to determine the likely success of performing certain work or achieving certain results [Project.Management.For.Dummies®.2nd.Edition.Wiley.2007.pdf 287, 353].
+*   **Flow of Services**: Can be depicted in architectures like three-tier or microservice [DevOps_A_Journey_from_Microservice_-_Hitesh_Kumar_Sharma.pdf 4].
+*   **Governance**: The framework, functions, and processes that guide project management activities [PMBOKGuide.pdf 94].
+*   **Impediment (Blocker)**: An obstacle that prevents the team from achieving its objectives [PMBOKGuide.pdf 84, 388].
+*   **Incremental Approach**: An adaptive development approach where the deliverable is produced successively, adding functionality until it's complete [PMBOKGuide.pdf 84].
+*   **Issue**: A current condition or situation that may impact project objectives [PMBOKGuide.pdf 85].
+*   **Iteration (Sprint)**: A timeboxed cycle of development on a product or deliverable where all work needed to deliver value is performed [PMBOKGuide.pdf 85, 109, 262].
+*   **Knowledge Areas**: The PMBOK® Guide – Sixth Edition structured project management around ten knowledge areas (e.g., Integration, Scope, Schedule, Cost, Quality, Resources, Communications, Risk, Procurement, and Stakeholders) [PMBOKGuide.pdf 13, PMP_Exam_Prep_For_Dummies.pdf 201].
+*   **Lean Six Sigma (LSS)**: A methodology with phases like Define, Measure, Analyze, Improve, Control (DMAIC) [Lean_Six_Sigma_for_Beginners_-_Gary_G_Jing.pdf 9, 10].
+*   **Lessons Learned**: Knowledge gained during a project about how events were addressed or should be addressed to improve future performance [PMBOKGuide.pdf 86].
+*   **Life Cycle**: The series of phases a project passes through from start to completion [PMBOKGuide.pdf 94, 195].
+*   **Methodology**: A set of principles, tools, and practices guiding project management activities, often defined by an organisation or PMO [PMP_Exam_Prep_For_Dummies.pdf 208].
+*   **Minimum Viable Product (MVP)**: Defines the scope of the first release of a solution by identifying the fewest features that deliver value [PMBOKGuide.pdf 88, 255].
+*   **Objective**: Something toward which work is directed, a purpose to be achieved, or a result to be obtained [PMBOKGuide.pdf 89, 290, 357].
+*   **Organizational Process Assets (OPA)**: Plans, processes, policies, procedures, and knowledge bases specific to and used by the performing organisation [PMBOKGuide.pdf 90, 211, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 396]. Include processes, policies, procedures, and organisational knowledge repositories [PMP_Exam_Prep_For_Dummies.pdf 211].
+*   **Outcome**: An end result or consequence of a process or project, focusing on benefits and value delivered [PMBOKGuide.pdf 20, 90]. Projects exist to deliver outcomes in addition to outputs and artifacts [PMBOKGuide.pdf 20].
+*   **Output**: A result from performing project management processes and activities [PMBOKGuide.pdf 35, 103].
+*   **Performance Domain**: Crucial for effectively delivering project outcomes [PMBOKGuide.pdf 11]. PMBOK® Guide – Seventh Edition presents eight project performance domains (e.g., Stakeholders, Team, Development Approach and Life Cycle, Planning, Project Work, Delivery, Measurement, Uncertainty) [PMBOKGuide.pdf 14, 26, 124].
+*   **Portfolio**: Projects, programs, subsidiary portfolios, and operations managed as a group to achieve strategic objectives [PMBOKGuide.pdf 21, 25, 91].
+*   **Predictive Approach**: A development approach where project scope, time, and cost are determined early in the life cycle [PMBOKGuide.pdf 91, PMP_Exam_Prep_For_Dummies.pdf 208]. Changes are managed through formal change control [PMP_Exam_Prep_For_Dummies.pdf 208].
+*   **Process**: A series of routine steps performed to achieve a particular function [PMBOKGuide.pdf 358]. Includes input, tools and techniques, and output [PMBOKGuide.pdf 199].
+*   **Process Groups**: A logical grouping of project management inputs, tools, and techniques, common across all projects [PMBOKGuide.pdf 95]. The five Process Groups are Initiating, Planning, Executing, Monitoring and Controlling, and Closing [PMBOKGuide.pdf 36, 37, 80, 83, 171, 200, 259].
+*   **Product**: An artifact that is produced, quantifiable, and can be either an end item or a component [PMBOKGuide.pdf 21, 92].
+*   **Program**: Related projects, subsidiary programs, and program activities managed in a coordinated manner to obtain benefits not available from managing them individually [PMBOKGuide.pdf 21, 92, 359].
+*   **Project Governance**: The framework, functions, and processes that guide project management activities [PMBOKGuide.pdf 94].
+*   **Project Life Cycle**: The series of phases a project passes through from its start to its completion [PMBOKGuide.pdf 94].
+*   **Project Management**: Application of knowledge, skills, tools, and techniques to project activities to meet requirements [PMBOKGuide.pdf 94]. Includes planning, organising, and controlling activities [Project Management: Core Principles and Practices.pdf 267, Project.Management.For.Dummies®.2nd.Edition.Wiley.2007.pdf 11].
+*   **Project Management Body of Knowledge (PMBOK)**: A term describing the knowledge within the project management profession [PMBOKGuide.pdf 95, 255].
+*   **Project Management Office (PMO)**: A management structure that standardises project-related governance processes and facilitates sharing of resources, methodologies, tools, and techniques [PMBOKGuide.pdf 95, 255].
+*   **Project Management Professional (PMP)**: A certification [PMBOKGuide.pdf 256].
+*   **Project Performance Domains**: Eight crucial areas for effectively delivering project outcomes, reflecting a full range of development approaches [PMBOKGuide.pdf 11, 14, 26].
+*   **Project Scope**: The work performed to deliver a product, service, or result with specified features and functions [PMBOKGuide.pdf 96].
+*   **Quality**: The degree to which a set of inherent characteristics fulfills requirements [PMBOKGuide.pdf 97]. Relates to customer requirements [Project Management: Core Principles and Practices.pdf 268].
+*   **Requirement**: A condition or capability necessary in a product, service, or result to satisfy a business need [PMBOKGuide.pdf 100].
+*   **Responsibility**: An assignment delegated within a project management plan where the assigned resource incurs a duty to perform requirements [PMBOKGuide.pdf 102, 362].
+*   **Risk**: An uncertain event or condition that, if it occurs, has a positive or negative effect on one or more project objectives [PMBOKGuide.pdf 103, 362].
+*   **Risk Exposure**: An aggregate measure of the potential impact of all risks at any given point [PMBOKGuide.pdf 104].
+*   **Risk Threshold**: Measure of acceptable variation around an objective, reflecting risk appetite [PMBOKGuide.pdf 105].
+*   **Scope Creep**: Uncontrolled expansion to product or project scope without adjustments to time, cost, and resources [PMBOKGuide.pdf 108, 148].
+*   **Stakeholder**: An individual, group, or organisation that may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project, program, or portfolio [PMBOKGuide.pdf 109, 364].
+*   **Standard**: A document established by authority, custom, or general consent as a model or example [PMBOKGuide.pdf 110].
+*   **Statement of Work (SOW)**: A narrative description of products, services, or results to be delivered by the project [PMBOKGuide.pdf 110, 234, 256, 364]. In PMI context, it typically refers to a procurement SOW [PMP_Exam_Prep_For_Dummies.pdf 234].
+*   **Strategy**: An approach to the major work of a project; the how of a project [Project.Management.For.Dummies®.2nd.Edition.Wiley.2007.pdf 365].
+*   **Tacit Knowledge**: Personal knowledge difficult to articulate and share, such as beliefs, experience, and insights [PMBOKGuide.pdf 113].
+*   **Tailoring**: The deliberate adaptation of approach, governance, and processes to suit the environment and work [PMBOKGuide.pdf 113].
+*   **Task**: Used interchangeably with 'activity' [PMP_Exam_Prep_For_Dummies.pdf 227].
+*   **Timebox**: A short, fixed period of time in which work is to be completed [PMBOKGuide.pdf 115].
+*   **Tolerance**: Quantified description of acceptable variation for a quality requirement [PMBOKGuide.pdf 115].
+*   **Uncertainty**: A state of being unclear, having difficulty identifying event causes, or having multiple options to choose from [PMBOKGuide.pdf 74].
+*   **Value**: Projects create value for stakeholders [PMBOKGuide.pdf 23].
+
+**B. Contract-related Terms**
+*   **Bidder Conference**: Meetings with prospective sellers before bid preparation to ensure common understanding of procurement [PMBOKGuide.pdf 78, 175, _OceanofPDF.com_PMP_Exam_Prep_2025_-_Claire_Georgette_Wiman.pdf 420].
+*   **Procurement Documentation**: Includes details like Statement of Work (SOW), Request for Proposal (RFP), Invitation for Bid (IFB), Request for Quote (RFQ) [PMBOKGuide.pdf 418].
+
+This comprehensive overview highlights the various types of documents, methods, graphs, and terms integral to managing projects according to PMBOK principles.
